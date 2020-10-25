@@ -1,0 +1,11 @@
+pytesseract
+argparse
+cv2
+os
+sys
+locale
+subprocess
+googletrans
+signal
+time
+datetime
